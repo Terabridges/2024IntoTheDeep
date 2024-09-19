@@ -13,7 +13,7 @@ public class MainTeleOp extends LinearOpMode {
     @Override
     public void runOpMode(){
         robot.init();
-        
+
         waitForStart();
 
     }
